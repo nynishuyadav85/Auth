@@ -1,9 +1,10 @@
+import SignUp from "./components/SignUp"
 
 function App() {
 
   return (
     <>
-      <h1>Auth</h1>
+      <SignUp />
     </>
   )
 }
